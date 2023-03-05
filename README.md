@@ -66,3 +66,8 @@ The OR Operator
 | - an OR Operator is a Boolean that matches expressions that come before or after it. In our example ([a-f0-9]{6}|[a-f0-9]{3}) this indicates before the operator which contains a quantifier of 6 and after which contains a quantifier of three are both valid on the condition the pattern contains either 6 or 3 characters.
 
 E.G. x|y meaning either x or y can be used
+
+## Author
+  Thank you for reading my breakdown of a regex function validating the Hex value with all the regex functions relevant to the hex value given.
+  
+  I am currently a student at UOB completing a full stack development bootcamp with future plans to enter the world of tech as a software engineer. 
