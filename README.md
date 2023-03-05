@@ -71,3 +71,5 @@ E.G. x|y meaning either x or y can be used
   Thank you for reading my breakdown of a regex function validating the Hex value with all the regex functions relevant to the hex value given.
   
   I am currently a student at UOB completing a full stack development bootcamp with future plans to enter the world of tech as a software engineer. 
+
+  You can find more of my projects here: https://github.com/Seemabibi
